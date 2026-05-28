@@ -1,4 +1,13 @@
 package com.cleanshopping.presentation
 
-class UserController {
+import com.cleanshopping.application.user.UserService
+import org.springframework.web.bind.annotation.RequestMapping
+
+@RequestMapping("/users")
+class UserController(
+    private val userService: UserService
+) {
+
+
+
 }

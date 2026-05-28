@@ -1,4 +1,4 @@
 package com.cleanshopping.infrastructure.user
 
-interface UserJpaRepository {
+interface UserJpaRepository  {
 }
