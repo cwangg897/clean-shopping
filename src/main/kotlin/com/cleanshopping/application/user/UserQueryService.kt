@@ -1,4 +1,4 @@
 package com.cleanshopping.application.user
 
-class UserService {
+class UserQueryService {
 }
