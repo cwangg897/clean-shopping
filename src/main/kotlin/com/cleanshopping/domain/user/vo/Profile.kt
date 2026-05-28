@@ -1,0 +1,4 @@
+package com.cleanshopping.domain.user
+
+class Profile {
+}
